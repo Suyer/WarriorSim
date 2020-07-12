@@ -6370,7 +6370,8 @@ var enchant = {
       {
          "id": 18329,
          "name": "Arcanum of Rapidity",
-         "haste": 1,
+         "str": 8
+         "haste": 50,
          "phase": 2
       },
       {
