@@ -737,7 +737,7 @@ class Pummeler extends Aura {
     constructor(player) {
         super(player);
         this.duration = 30;
-        this.mult_stats = { haste: 50 };
+        this.mult_stats = { haste: 150 };
         this.name = 'Manual Crowd Pummeler';
     }
     use() {
